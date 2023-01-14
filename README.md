@@ -3,7 +3,7 @@ This repository contains a program that reads data from a CSV file and calculate
 
 ### Running
 
-1. Clone the repository to your local machine using `git clone https://github.com/username/csv-statistics-calculator-c.git`
+1. Clone the repository to your local machine using `git clone https://github.com/mtcnbzks/csv-statistics-calculator`
 2. Change project directory and type:
 `make`
 
