@@ -1,0 +1,19 @@
+SepalLengthCmVariance: 0.681122
+SepalWidthCmVariance: 0.186751
+PetalLengthCmVariance: 3.092424
+PetalWidthCmVariance: 0.578532
+
+Means of SepalLengthCm = 5.843335
+Means of SepalWidthCm = 3.054000
+Means of PetalLengthCm = 3.758667
+Means of PetalWidthCm = 1.198667
+
+Correlation of SepalLengthCm and SepalWidthCm = -0.109369
+Correlation of PetalLengthCm and PetalWidthCm = 0.962757
+Correlation of SepalLengthCm and PetalWidthCm = 0.817954
+
+Covariance Matrix of IrisDataMatrix:
+0.681122 -0.039007 1.265191 0.513458 
+-0.039007 0.186751 -0.319568 -0.117195 
+1.265191 -0.319568 3.092424 1.287745 
+0.513458 -0.117195 1.287745 0.578532 
